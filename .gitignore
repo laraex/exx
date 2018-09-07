@@ -1,0 +1,12 @@
+/vendor
+/app/Classes/charts/data/*.json
+/node_modules
+/storage/backups
+/.vscode
+Homestead.yaml
+Homestead.json
+.env
+.sublime-project
+.sublime-workspace
+composer.lock
+/public/uploads

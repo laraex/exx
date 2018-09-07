@@ -1,0 +1,128 @@
+.grid {
+    display:grid
+}
+
+.grid-2, 
+.grid-3, 
+.grid-4, 
+.grid-5, 
+.grid-6, 
+.grid-7, 
+.grid-8, 
+.grid-9, 
+.grid-10, 
+.grid-11, 
+.grid-12,
+.grid-300-auto,
+.grid-300-300-auto, 
+.grid-380-480-480, 
+.grid-380-580-380 {
+    grid-template-columns: auto,
+}
+.grid-item {
+    margin: 20px 0;
+}
+.gc-10 {
+    grid-gap: 10px;   
+}
+.gc-20 {
+    grid-gap: 20px;
+}
+.gc-40 {
+    grid-gap: 40px;
+}
+.w-240, .w-300, .w-330, .w-400, .w-500, .w-600 {
+    width: 100%;
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+
+/* Custom, iPhone Retina */
+
+@media only screen and (min-width: 320px) {
+    
+}
+
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (min-width: 480px) {}
+
+
+/* Small Devices, Tablets */
+
+@media only screen and (min-width: 768px) {
+   
+}
+
+
+/* Medium Devices, Desktops */
+
+@media only screen and (min-width: 992px) {
+    .grid-2 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .grid-3 {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .grid-4 {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .grid-5 {
+        grid-template-columns: repeat(5, 1fr);
+    }
+    .grid-6 {
+        grid-template-columns: repeat(6, 1fr);
+    }
+    .grid-7 {
+        grid-template-columns: repeat(7, 1fr);
+    }
+    .grid-8 {
+        grid-template-columns: repeat(8, 1fr);
+    }
+    .grid-9 {
+        grid-template-columns: repeat(9, 1fr);
+    }
+    .grid-10 {
+        grid-template-columns: repeat(10, 1fr);
+    }
+    .grid-11 {
+        grid-template-columns: repeat(11, 1fr);
+    }
+    .grid-12 {
+        grid-template-columns: repeat(12, 1fr);
+    }
+    .grid-300-auto {
+       grid-template-columns: 300px auto;
+        grid-gap: 40px;
+    }
+    .grid-300-300-auto {
+        grid-template-columns: 300px 300px auto;
+        grid-gap: 40px;
+    }
+    .grid-380-480-480 {
+          grid-template-columns: 380px 480px 480px;
+    }
+    .grid-380-580-380 {
+          grid-template-columns: 380px 480px 480px;
+    }
+    .grid-item {
+     margin: 0;
+    }
+    .w-240 {
+        width: 240px;
+    }
+    .w-300 {
+        width: 300px;
+    }
+    .w-330 {
+        width: 330px;
+    }
+}
+
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (min-width: 1200px) {}

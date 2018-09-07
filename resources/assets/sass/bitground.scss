@@ -1,0 +1,113 @@
+.bgd-background {
+	background-color: #f3f5f7;
+}
+.blue-bar {
+    background-color: #17a5df;
+    min-height: 40px;
+}
+.bgd-heading-1 {
+	font-size: 24px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+.bgd-box-round {
+	background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.vue-portal-target .is-active {
+    background-color: #ee8102;
+   }
+.footer-nav-bar {
+    min-height: 100px;
+    background-color: #fff;
+    padding: 10px 0;
+    border-top: 1px solid #17a5df;
+}
+.footer-menu-1 li {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 100;
+}
+.main-menu a.nav-link  {
+	font-size: 18px;
+	font-weight: 500;
+}
+.w-480 {
+	width: 480px;
+}
+.w-580 {
+	width: 580px;
+}
+.w-380 {
+	width: 380px;
+}
+.flex-1 {
+	flex:1;
+}
+.flex-m {
+	align-items:center;
+}
+.flex-jc-sb {
+    justify-content: space-between;
+}
+.no-space {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.tabs-component ul {
+    padding: 0;
+    margin:0;
+  }
+  .tabs-component-tabs {
+    align-items: stretch;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: -1px;
+    border: solid 1px #ddd;
+    background-color: #fff;
+    border-radius: none;
+  }
+.tabs-component-tab {
+  color: #999;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0;
+  list-style: none;
+  flex:1;
+  border-right:1px solid #b7c0d1;
+}
+.tabs-component-tab:last-child {
+  border-right:0
+}
+.tabs-component-tab:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.tabs-component-tab.is-disabled * {
+  color: #cdcdcd;
+  cursor: not-allowed !important;
+}
+.tabs-component-tab.is-active {
+    z-index: 2;
+    transform: translateY(0);
+    background-color: #2c6bac;
+    color: #fff;
+    text-decoration: none;
+  }
+.tabs-component-tab-a {
+  align-items: center;
+  color: inherit;
+  display: flex;
+  padding: .75em 1em;
+  text-decoration: none;
+  justify-content: center;
+}
+.tabs-component-panels {
+    padding: 0.2em 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: none;
+}

@@ -1,0 +1,1364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"Suborder"
+			],
+			[
+				"conte",
+				"content-section"
+			],
+			[
+				"treeview",
+				"treeview-menu"
+			],
+			[
+				"number",
+				"numberBetween"
+			],
+			[
+				"Sess",
+				"Session::put\tStore an Item in the Session"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"A",
+				"Albums"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"request",
+				"Request"
+			],
+			[
+				"table",
+				"table-striped"
+			],
+			[
+				"don",
+				"donation_settings"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"col",
+				"col-md-offset-2"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"width",
+				"min-width"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"body",
+				"body-bg"
+			],
+			[
+				"WithdrawC",
+				"WithdrawComplete"
+			],
+			[
+				"W",
+				"WithdrawController"
+			],
+			[
+				"boxy",
+				"boxy-white"
+			],
+			[
+				"spo",
+				"sponsorUser"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"Cre",
+				"CreditCard"
+			],
+			[
+				"tr",
+				"tranaction_uuid"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"sps",
+				"sponsorRoot"
+			],
+			[
+				"a",
+				"alphakeyArray"
+			],
+			[
+				"new",
+				"newSponsor"
+			],
+			[
+				"alp",
+				"alphakeyref"
+			],
+			[
+				"al",
+				"alphakeyref"
+			],
+			[
+				"af",
+				"affectedPlacements"
+			],
+			[
+				"spill",
+				"spillover_id"
+			],
+			[
+				"sp",
+				"sponsor"
+			],
+			[
+				"Pla",
+				"Placement"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"De",
+				"DepositController"
+			],
+			[
+				"label",
+				"label-success"
+			],
+			[
+				"Tra",
+				"Transaction"
+			],
+			[
+				"sec",
+				"select\tTag"
+			],
+			[
+				"duration",
+				"duration_key"
+			],
+			[
+				"C",
+				"Collection"
+			],
+			[
+				"array_di",
+				"array_divide"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"intre",
+				"interest_array"
+			],
+			[
+				"h",
+				"hasProfile"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"plan",
+				"plantype"
+			],
+			[
+				"add",
+				"addField"
+			],
+			[
+				"skin-b",
+				"skin-black-light"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Ca",
+				"Carbon"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"Auth",
+				"Auth::user\tGet the currently authenticated user."
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"account",
+				"accounting_code_id"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"Cookie",
+				"Cookie::forever\tMake a Permanent Cookie"
+			],
+			[
+				"btn-",
+				"btn-block"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"sq",
+				"sqlite"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"ar",
+				"articles"
+			],
+			[
+				"Art",
+				"articles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Karthick/code/ebuckstore/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 10472,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Karthick/code/ebuckstore/app/Http/Controllers/Admin/DashboardController.php",
+			"settings":
+			{
+				"buffer_size": 862,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@extends('backpack::layout')\n\n@section('header')\n    <section class=\"content-header\">\n      <h1> Dashboard </h1>\n      <ol class=\"breadcrumb\">\n        <li><a href=\"{{ url(config('backpack.base.route_prefix', 'admin')) }}\">{{ config('backpack.base.project_name') }}</a></li>\n        <li class=\"active\">Dashboard</li>\n      </ol>\n    </section>\n@endsection\n\n@section('content')\n    <div class=\"row\">\n        <div class=\"col-md-12\">\n            <div class=\"box box-default\">\n\n                <div class=\"row\">\n                  <div class=\"col-sm-12\">\n                  @include('partials.message')\n                 \n\n\n\n                      <div class=\"flex wallet-box\">\n                              \n                                <div class=\"wallet-balance-box\">\n\n                                   {{-- <div><img src=\"{{ url($walletlist->currency->image) }}\" class=\"flag-image\"></div>\n                                    <div><strong> {{ $walletlist->currency->name }} Wallet</strong></div>\n                                    <div>{{ $walletlist->currency->name }} <span> {{ $walletlist->present()->getAdminEarnings($walletlist->currency->id, $walletlist->user_id) }}</span></div>--}}\n\n                                    <div><h1><i class=\"fa fa-superpowers\"></i></h1></div>\n                                    <div><strong> E-Buck In Bank</strong></div>\n                                    <div><span> {{$ebuck_wallet}}</span></div> <div> <a href=\"{{ url(config('backpack.base.route_prefix').'/ebuckwallet') }}\">Add Fund</a></div>\n\n                                </div>\n\n                                <div class=\"wallet-balance-box\">\n\n                                    <div><h1><i class=\"fa fa-star-o\"></i></h1></div>\n                                    <div><strong> E-Buck (In Members)</strong></div>\n                                    <div><span> {{$ebuck_members}}</span></div>\n\n                                </div>\n\n                                <div class=\"wallet-balance-box\">\n\n                                    <div><h1><i class=\"fa fa-hand-lizard-o\"></i></h1></div>\n                                    <div><strong> E-Buck Buy Rate</strong></div>\n                                    <div><span>1 USD = {{$ebuck_buy_rate}} </span></div>\n\n                                </div>\n\n                                <div class=\"wallet-balance-box\">\n\n                                    <div><h1><i class=\"fa fa-handshake-o\"></i></h1></div>\n                                    <div><strong> E-Buck Sell Rate</strong></div>\n                                    <div><span>1 USD= {{$ebuck_sell_rate}}</span></div>\n\n                                </div>\n                        \n                        </div>\n   \n                </div>\n            </div>\n        </div>\n    </div>\n@endsection\n\n        @include('admin.datatable')\n\n        @push('scripts')\n        <script>\n            $(document).ready(function(){\n                $('#userdatatable').DataTable();\n            });\n        </script>\n        @endpush\n\n\n",
+			"file": "dashboard.blade.php",
+			"file_size": 3047,
+			"file_write_time": 131503596950000000,
+			"settings":
+			{
+				"buffer_size": 3034,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 195.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tod",
+				"Set Syntax: Todo"
+			],
+			[
+				"bla",
+				"Blade Spacer: Format File"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: App:Name"
+			],
+			[
+				"Laravel app",
+				"Laravel Artisan 5: App:Name"
+			],
+			[
+				"Snippet: ",
+				"Snippet: textarea"
+			],
+			[
+				"Snippet: pa",
+				"Snippet: password"
+			],
+			[
+				"Snippet: da",
+				"Snippet: date"
+			],
+			[
+				"Snippet: b",
+				"Snippet: button"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Laravel make",
+				"Laravel Artisan 5: Make:Event"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: L",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Karthick/code/ebuckstore",
+		"/Users/Karthick/code/ebuckstore/routes"
+	],
+	"file_history":
+	[
+		"/Users/Karthick/code/shoppingcart/database/factories/ModelFactory.php",
+		"/Users/Karthick/code/shoppingcart/config/backpack/base.php",
+		"/Users/Karthick/code/shoppingcart/app/Http/Controllers/Myaccount/SalesController.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/orders/partials/salesorderdetails.blade.php",
+		"/Users/Karthick/.ssh/id_rsa.pub",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/seller-rating.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/assets/sass/product.scss",
+		"/Users/Karthick/code/shoppingcart/resources/assets/sass/app.scss",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-toolbar.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-ownthis.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-wantthis.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-actions.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/assets/sass/default.scss",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/seller-info.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/myaccount.blade.php",
+		"/Users/Karthick/code/shoppingcart/app/Orderitems.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/recommendedproducts.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-price.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-shipping-info.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-addtocart.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-extraoptions.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-coloroptions.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/comments.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/morebyseller.blade.php",
+		"/Users/Karthick/code/shoppingcart/database/migrations/2017_09_11_072712_create_orderitems_table.php",
+		"/Users/Karthick/code/shoppingcart/database/migrations/2017_09_11_071742_create_orders_table.php",
+		"/Users/Karthick/code/shoppingcart/app/Order.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/productdetails.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/layouts/partials/navigation.blade.php",
+		"/Users/Karthick/code/shoppingcart/app/Http/Controllers/Myaccount/OrderController.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/products/partials/product-details.blade.php",
+		"/Users/Karthick/code/androidnewswire/database/seeds/DatabaseSeeder.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/layouts/app.blade.php",
+		"/Users/Karthick/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/Karthick/Library/Application Support/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+		"/Users/Karthick/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/Users/Karthick/code/ebuckstore/app/Presenters/SitePresenter.php",
+		"/Users/Karthick/code/ebuckstore/database/migrations/2017_09_12_125716_create_exchangerates_table.php",
+		"/Users/Karthick/code/ebuckstore/.env",
+		"/Users/Karthick/code/ebuckstore/database/seeds/UsersTableSeeder.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/home.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/welcome.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/assets/sass/custom.scss",
+		"/Users/Karthick/code/androidnewswire/resources/views/layouts/app.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/layouts/footer.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/pages/contact.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/pages/features.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/company/contact.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/company/createcontact.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/company/profile.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/company/socialmedia.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/company/viewcontact.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/member/billinginfo.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/member/orders.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/member/renewals.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/audio.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/audiocreate.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/content.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/contentview.blade.php",
+		"/Users/Karthick/code/androidnewswire/database/seeds/TagsTableSeeder.php",
+		"/Users/Karthick/code/androidnewswire/database/factories/ModelFactory.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/pressrelease/view.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/assets/sass/taggle.scss",
+		"/Users/Karthick/code/androidnewswire/resources/views/pressrelease/create.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/custom.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/editcontent.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/eventscreate.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/eventsview.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/imagecreate.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/images.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/video.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/videocreate.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/news/view.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/pages/newsroom.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/auth/login.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/auth/register.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/auth/passwords/email.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/auth/passwords/reset.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/layouts/main.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/layouts/partials/html_footer.blade.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/layouts/partials/html_header.blade.php",
+		"/Users/Karthick/code/androidnewswire/sidebar_links.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/layouts/sidebar.blade.php",
+		"/Users/Karthick/code/androidnewswire/.env",
+		"/Users/Karthick/code/androidnewswire/package.json",
+		"/Users/Karthick/code/androidnewswire/app/Console/Commands/createAdminUser.php",
+		"/Users/Karthick/code/androidnewswire/database/seeds/UsersTableSeeder.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/vendor/backpack/base/inc/sidebar.blade.php",
+		"/Users/Karthick/code/androidnewswire/config/backpack/base.php",
+		"/Users/Karthick/code/androidnewswire/routes/web.php",
+		"/Users/Karthick/code/androidnewswire/database/migrations/2017_07_20_072321_create_tags_table.php",
+		"/Users/Karthick/code/androidnewswire/database/seeds/SettingTableSeeder.php",
+		"/Users/Karthick/code/androidnewswire/resources/assets/sass/app.scss",
+		"/Users/Karthick/code/androidnewswire/resources/assets/sass/mediaqueries.scss",
+		"/Users/Karthick/code/androidnewswire/resources/assets/sass/sidebar.scss",
+		"/Users/Karthick/code/androidnewswire/database/migrations/2017_07_20_072550_create_events_table.php",
+		"/Users/Karthick/code/androidnewswire/resources/views/layouts/sitelinks.blade.php",
+		"/Users/Karthick/code/androidnewswire/.gitignore",
+		"/Users/Karthick/code/btc-miners/app/Traits/DonationProcess.php",
+		"/Users/Karthick/code/shoppingcart/app/Product.php",
+		"/Users/Karthick/code/shoppingcart/app/Http/Controllers/Myaccount/StoreController.php",
+		"/Users/Karthick/code/shoppingcart/database/seeds/DatabaseSeeder.php",
+		"/Users/Karthick/code/shoppingcart/database/seeds/StoresTableSeeder.php",
+		"/Users/Karthick/code/shoppingcart/routes/web.php",
+		"/Users/Karthick/code/shoppingcart/database/seeds/CategoriesTableSeeder.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/store/partials/stores_grid.blade.php",
+		"/Users/Karthick/code/shoppingcart/resources/views/store/allstores.blade.php",
+		"/Users/Karthick/code/shoppingcart/database/migrations/2017_08_08_054510_create_stores_table.php",
+		"/Users/Karthick/code/shoppingcart/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/Karthick/code/shoppingcart/database/seeds/UsersTableSeeder.php",
+		"/Users/Karthick/code/shoppingcart/public/css/app.css",
+		"/Users/Karthick/code/shoppingcart/public/css/style.css",
+		"/Users/Karthick/code/gegoerp/resources/views/vendor/backpack/base/inc/sidebar.blade.php",
+		"/Users/Karthick/code/gegoerp/routes/web.php",
+		"/Users/Karthick/code/gegoerp/database/migrations/2017_08_30_055355_create_outlettypes_table.php",
+		"/Users/Karthick/code/gegoerp/app/Models/Outlettype.php",
+		"/Users/Karthick/code/gegoerp/app/User.php",
+		"/Users/Karthick/code/gegoerp/app/Http/Middleware/VerifyCsrfToken.php",
+		"/Users/Karthick/code/nairaex/resources/views/home/mypayaccounts.blade.php",
+		"/Users/Karthick/code/nairaex/resources/views/home/_mypayaccounts_bitcoin_direct.blade.php",
+		"/Users/Karthick/code/nairaex/resources/views/home/_mypayaccounts_bankwire_usd.blade.php",
+		"/Users/Karthick/code/nairaex/resources/views/home/_mypayaccounts_bankwire_ngn.blade.php",
+		"/Users/Karthick/code/nairaex/resources/views/home/_mypayaccounts_bankwire_euro.blade.php",
+		"/Users/Karthick/code/nairaex/resources/views/home/_mypayaccounts_bankwire_inr.blade.php",
+		"/Users/Karthick/code/nairaex/app/Http/Controllers/WelcomeController.php",
+		"/Users/Karthick/code/nairaex/readme.md",
+		"/Users/Karthick/code/nairaex/.env",
+		"/Users/Karthick/code/btc-miners/resources/views/layouts/footer.blade.php"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Karthick/code/ebuckstore/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1304,
+								1304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1289.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Karthick/code/ebuckstore/app/Http/Controllers/Admin/DashboardController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								714,
+								714
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 506.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dashboard.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 87.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ebuckstore.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"r/w",
+				"routes/web.php"
+			],
+			[
+				"adminc",
+				"vendor/backpack/base/src/app/Http/Controllers/AdminController.php"
+			],
+			[
+				"resources/views/myaccount.blade.php",
+				"resources/views/myaccount.blade.php"
+			],
+			[
+				"resources/views/orders/partials/salesorderdetails.blade.php",
+				"resources/views/orders/partials/salesorderdetails.blade.php"
+			],
+			[
+				"",
+				"resources/assets/sass/custom.scss"
+			],
+			[
+				"h/c/w",
+				"app/Http/Controllers/WelcomeController.php"
+			],
+			[
+				"defaul",
+				"resources/assets/sass/default.scss"
+			],
+			[
+				"r/v/s/a",
+				"resources/views/store/allstores.blade.php"
+			],
+			[
+				"d/s/s",
+				"database/seeds/SettingsTableSeeder.php"
+			],
+			[
+				"r/v/v/b/",
+				"resources/views/vendor/backpack/base/inc/sidebar.blade.php"
+			],
+			[
+				"a/h/",
+				"app/Http/Controllers/WelcomeController.php"
+			],
+			[
+				"r/v/lan/",
+				"resources/views/landingpage/index.blade.php"
+			],
+			[
+				"a/h/c.w",
+				"app/Http/Controllers/WelcomeController.php"
+			],
+			[
+				"r/v/l/f",
+				"resources/views/layouts/footer.blade.php"
+			],
+			[
+				"r/v/l/m",
+				"resources/views/layouts/main.blade.php"
+			],
+			[
+				"r/a/th",
+				"resources/assets/sass/theme.scss"
+			],
+			[
+				"the",
+				"resources/assets/sass/theme.scss"
+			],
+			[
+				"theme.s",
+				"resources/assets/sass/theme.scss"
+			],
+			[
+				"a/h/c/m/n",
+				"app/Http/Controllers/Myaccount/NewsContentController.php"
+			],
+			[
+				"theme",
+				"resources/assets/sass/theme.scss"
+			],
+			[
+				"card",
+				"resources/assets/sass/card.scss"
+			],
+			[
+				"theme.",
+				"resources/assets/sass/theme.scss"
+			],
+			[
+				"theme.sc",
+				"resources/assets/sass/theme.scss"
+			],
+			[
+				"footer",
+				"resources/views/layouts/footer.blade.php"
+			],
+			[
+				"theme.csss",
+				"resources/assets/sass/theme.scss"
+			],
+			[
+				"cus",
+				"resources/assets/sass/custom.scss"
+			],
+			[
+				"space",
+				"resources/assets/sass/spacer.scss"
+			],
+			[
+				"das",
+				"resources/views/staff/dashboard.blade.php"
+			],
+			[
+				"media",
+				"resources/assets/sass/media-query.scss"
+			],
+			[
+				"mediaq",
+				"resources/assets/sass/media-query.scss"
+			],
+			[
+				"spacer",
+				"resources/assets/sass/spacer.scss"
+			],
+			[
+				"custom.scss",
+				"resources/assets/sass/custom.scss"
+			],
+			[
+				"inves",
+				"resources/views/pages/invest.blade.php"
+			],
+			[
+				"site",
+				"resources/views/layouts/sitelinks.blade.php"
+			],
+			[
+				"apps",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"appse",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"depositta",
+				"resources/views/home/deposittable.blade.php"
+			],
+			[
+				"mainnavi",
+				"resources/lang/en/mainnavigation.php"
+			],
+			[
+				"place",
+				"app/Traits/PlacementProcessor.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"earn",
+				"resources/views/pages/earn.blade.php"
+			],
+			[
+				"abou",
+				"resources/views/pages/about.blade.php"
+			],
+			[
+				"crudc",
+				"vendor/backpack/crud/src/app/Http/Controllers/CrudController.php"
+			],
+			[
+				"homec",
+				"app/Http/Controllers/Myaccount/HomeController.php"
+			],
+			[
+				"c/a",
+				"config/app.php"
+			],
+			[
+				"a/h/c/my/p",
+				"app/Http/Controllers/Myaccount/UserprofileController.php"
+			],
+			[
+				"forms",
+				"resources/lang/en/forms.php"
+			],
+			[
+				"user.p",
+				"app/User.php"
+			],
+			[
+				"sidebar",
+				"resources/views/layouts/sidebar.blade.php"
+			],
+			[
+				"depos",
+				"app/Http/Controllers/DepositController.php"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"cust",
+				"resources/assets/sass/custom.scss"
+			],
+			[
+				"adminpa",
+				"resources/views/layouts/adminpanel.blade.php"
+			],
+			[
+				"userdeat",
+				"resources/views/admin/userdetail.blade.php"
+			],
+			[
+				"userc",
+				"app/Http/Controllers/Admin/UserController.php"
+			],
+			[
+				"re/vi/ad",
+				"resources/views/admin/users.blade.php"
+			],
+			[
+				"users",
+				"resources/views/admin/users.blade.php"
+			],
+			[
+				"layout/ad",
+				"resources/views/layouts/adminpanel.blade.php"
+			],
+			[
+				"deposi",
+				"app/Deposit.php"
+			],
+			[
+				"userpr",
+				"app/Userprofile.php"
+			],
+			[
+				"userprof",
+				"app/Userprofile.php"
+			],
+			[
+				"plancr",
+				"app/Http/Controllers/Admin/PlanCrudController.php"
+			],
+			[
+				"inc/",
+				"resources/views/vendor/backpack/base/inc/sidebar.blade.php"
+			],
+			[
+				"side",
+				"resources/views/layouts/sidebar.blade.php"
+			],
+			[
+				"rfirewall",
+				"app/Http/Requests/FirewallRequest.php"
+			],
+			[
+				"inc/side",
+				"resources/views/vendor/backpack/base/inc/sidebar.blade.php"
+			],
+			[
+				"firewall",
+				"app/Http/Controllers/Superadmin/FirewallCrudController.php"
+			],
+			[
+				"firewallc",
+				"app/Http/Controllers/Superadmin/FirewallCrudController.php"
+			],
+			[
+				"fire",
+				"app/Http/Controllers/Superadmin/FirewallCrudController.php"
+			],
+			[
+				"plan",
+				"app/Plan.php"
+			],
+			[
+				"calc",
+				"resources/assets/js/components/Calculator.vue"
+			],
+			[
+				"cal",
+				"resources/assets/js/components/Calculator.vue"
+			],
+			[
+				"calcul",
+				"resources/assets/js/components/Calculator.vue"
+			],
+			[
+				"home",
+				"app/Http/Controllers/Myaccount/HomeController.php"
+			],
+			[
+				"hom",
+				"app/Http/Controllers/Myaccount/HomeController.php"
+			],
+			[
+				"welcome",
+				"app/Http/Controllers/WelcomeController.php"
+			],
+			[
+				"interest",
+				"app/Interest.php"
+			],
+			[
+				"r/v/h/",
+				"resources/views/home/dashboard.blade.php"
+			],
+			[
+				"spac",
+				"resources/assets/sass/spacer.scss"
+			],
+			[
+				"sitel",
+				"resources/views/layouts/sitelinks.blade.php"
+			],
+			[
+				"auth/",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"auth/re",
+				"resources/views/auth/register.blade.php"
+			],
+			[
+				"w/r",
+				"node_modules/ws/README.md"
+			],
+			[
+				"use",
+				"app/User.php"
+			],
+			[
+				"homeco",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"auth",
+				"config/auth.php"
+			],
+			[
+				"r/",
+				"routes/web.php"
+			],
+			[
+				"page",
+				"app/Http/Controllers/PageController.php"
+			],
+			[
+				"pagec",
+				"app/Http/Controllers/PageController.php"
+			],
+			[
+				"welc",
+				"resources/lang/en/welcome.php"
+			],
+			[
+				"wel",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"userprofile",
+				"app/Http/Controllers/UserprofileController.php"
+			],
+			[
+				"userprofilec",
+				"app/Http/Controllers/UserprofileController.php"
+			],
+			[
+				"useacc",
+				"app/Http/Controllers/UseraccountController.php"
+			],
+			[
+				"depo",
+				"app/Http/Controllers/DepositController.php"
+			],
+			[
+				"u",
+				"app/User.php"
+			],
+			[
+				"admin/user",
+				"app/Http/Controllers/Admin/UserController.php"
+			],
+			[
+				"t",
+				"app/Transaction.php"
+			],
+			[
+				"da/mi/se",
+				"database/migrations/2017_03_16_075904_create_settings_table.php"
+			],
+			[
+				"da/mi/pag",
+				"database/migrations/2017_03_15_063100_create_pages_table.php"
+			],
+			[
+				"da/mi/de",
+				"database/migrations/2017_03_14_143747_create_deposits_table.php"
+			],
+			[
+				"dat/mi/intr",
+				"database/migrations/2017_03_14_160535_create_interests_table.php"
+			],
+			[
+				"da/mi/cha",
+				"database/migrations/2017_03_14_144041_create_charges_table.php"
+			],
+			[
+				"database/migr/pa",
+				"database/migrations/2017_03_14_144029_create_payments_table.php"
+			],
+			[
+				"with",
+				"app/Withdraw.php"
+			],
+			[
+				"usera",
+				"app/Useraccount.php"
+			],
+			[
+				"useracc",
+				"app/Useraccount.php"
+			],
+			[
+				"userpro",
+				"app/Userprofile.php"
+			],
+			[
+				"userac",
+				"app/Useraccount.php"
+			],
+			[
+				"tra",
+				"app/Transaction.php"
+			],
+			[
+				"depositcr",
+				"app/Http/Controllers/Admin/DepositCrudController.php"
+			],
+			[
+				"show",
+				"resources/views/auth/show.blade.php"
+			],
+			[
+				"userct",
+				"vendor/backpack/permissionmanager/src/app/Http/Controllers/UserCrudController.php"
+			],
+			[
+				"myac",
+				"app/Http/Controllers/MyaccountController.php"
+			],
+			[
+				"deposit",
+				"app/Http/Controllers/Admin/DepositCrudController.php"
+			],
+			[
+				"usercrud",
+				"vendor/backpack/permissionmanager/src/app/Http/Controllers/UserCrudController.php"
+			],
+			[
+				"app.js",
+				"resources/assets/js/app.js"
+			],
+			[
+				"datata",
+				"node_modules/datatables.net-buttons/js/dataTables.buttons.js"
+			],
+			[
+				"my",
+				"app/Http/Controllers/MyaccountController.php"
+			],
+			[
+				"regis",
+				"app/Http/Controllers/RegistrationController.php"
+			],
+			[
+				"banne",
+				"resources/views/pages/banner.blade.php"
+			],
+			[
+				"layoutapp",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"layout.app",
+				"vendor/backpack/base/src/resources/views/layout.blade.php"
+			],
+			[
+				"sess",
+				"app/Http/Controllers/SessionsController.php"
+			],
+			[
+				"app.",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"reg",
+				"app/Http/Controllers/RegistrationController.php"
+			],
+			[
+				"welco",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"ho",
+				"app/Http/Controllers/HomeController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 365.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

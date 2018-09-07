@@ -1,0 +1,25 @@
+<?php
+	return [
+		"currencypairlist" => "Currency Pair List",
+		"list" => "List",
+		"currencypair_list" => "Currency Pair List",
+		"from_currency" => "From Currency",
+		"to_currency" => "To Currency",
+		"status" => "Status",
+		"min_amt" => "Min Amount",
+		"max_amt" => "Max Amount",
+		"variant" => "Variant",
+		"fee" => "Fee",
+		"base_fee" => "Base Fee",
+		"action" => "Action",
+		"edit" => "Edit",
+		"edit_pair" => "Edit Pair",
+		"ex_rate" => "Exchange Rate",
+		"ex_rate_variant" => "Exchange Rate Variant ( % Value: +/- )",
+		"buy_fee" => "Buy Fee (%)",
+		"buy_base_fee" => "Buy Base Fee(Flat)",
+		"back" => "Back to List",
+		"sell_fee" => "Sell Fee (%)",
+		"sell_base_fee" => "Sell Base Fee(Flat)",
+	];
+

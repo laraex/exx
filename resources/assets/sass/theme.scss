@@ -1,0 +1,405 @@
+$themecolor: #ff3000;
+body {
+    font-family: "Source Sans Pro", sans_serif;
+    background-color: #e7e7e7;
+}
+
+.form-horizontal .help-block {
+    font-size: 14px;
+    font-weight: 100;
+    color: #fb8888;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main {
+    flex: 1;
+}
+
+.bg-faded {
+    background-color: $themecolor
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(244, 244, 244, 0.9);
+}
+
+.navbar-light .navbar-nav .open>.nav-link,
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.open,
+.navbar-light .navbar-nav .nav-link.active {
+    color: rgba(255, 255, 255, 1.0);
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.nav-link-rounded {
+    border: 2px solid;
+    border-radius: 8px;
+}
+.pr-bar {
+    min-height: 180px;
+    background-size: cover;
+    background-color: #ffffff;
+    padding: 40px 0;
+}
+.grey-bar {
+    min-height: 140px;
+    background-size: cover;
+    background-color: #e6e6e6;
+}
+
+.cta-bar {
+    min-height: 320px;
+    background-color: #e7e7e7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    ;
+}
+
+.cta-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-title {
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+.content-text {
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.cta-bar-title-1 {
+    color: #282828;
+    font-size: 48px;
+    font-weight: 100;
+}
+
+.cta-bar-title-2 {
+    color: #282828;
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.cta-button {
+    color: #282828;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    border: 2px solid;
+    padding: 5px 20px;
+    border-radius: 4px;
+}
+
+.cta-button-white {
+    color: #fff;
+}
+
+
+
+.cta-button:hover,
+.cta-button:focus,
+.cta-button:active .cta-button:visited {
+    text-decoration: none;
+    color: #242424;
+    border-color:#242424;
+}
+
+.cta-button-white:hover,
+.cta-button-white:focus,
+.cta-button-white:active .cta-button-white:visited {
+    text-decoration: none;
+    color: #fff;
+    border-color:#fff;
+}
+
+.footer-cta-bar {
+    min-height: 240px;
+    background-color: #25aae3;
+}
+
+.footer-cta-bar {
+    min-height: 160px;
+    background-color: #25aae3;
+}
+
+.footer-nav-bar {
+    min-height: 320px;
+    background-color: #ededed;
+    padding: 60px 0;
+}
+
+.footer-copyright-bar {
+    min-height: 80px;
+    background-color: #bcbcbc;
+}
+
+.bg-menubar {
+    background-color: #ddd;
+}
+
+.member-menu {
+    background-color: #fff;
+    border-bottom: 2px solid #ddd;
+    box-shadow: 0 0 0 2px #eee;
+}
+
+#member-menu a.nav-link {
+    color: #333;
+    text-transform: uppercase;
+}
+
+.page-title {
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.ticket .flex-page-content {
+    flex-direction: column;
+}
+
+.ticket .flex-page-left {
+    flex-direction: column;
+}
+
+.ticket-info-well {
+    flex-wrap: wrap;
+    background-color: #f2f2f2;
+    padding: 20px 40px;
+    border-radius: 20px;
+}
+
+.ticket-info-well p {
+    min-width: 25%;
+}
+
+.ticket-message {
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+    padding: 10px 15px;
+    background-color: #ededed;
+}
+
+.comment-wrapper {
+    border: 1px solid #f3f3f3;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #f2f2f2;
+}
+
+.comment-update {
+    color: #25aae3;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.login-form-container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.register-form-container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.widget-wrapper {
+    justify-content: space-between;
+}
+
+.footer-widget {
+    flex-direction: column;
+    margin: 50px 0;
+}
+
+.footer-widget-1 {
+    width: 20%;
+}
+
+.footer-widget-2 {
+    width: 22%;
+}
+
+.footer-widget-3 {
+    flex: 2;
+}
+
+h2.footer-link-heading {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+ul.footer-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    line-height: 2.2em;
+}
+
+.footer-link {
+    color: #999;
+}
+
+.buysell-container .card {
+    width: 49%;
+}
+
+.buysell-container {
+    justify-content: space-between;
+    margin: 30px auto;
+}
+
+.wallet-table-container {
+    width: 100%;
+}
+
+.rate_table_container {
+    width: 100%;
+}
+
+ul.settings-menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.settings-menu-link {
+    padding: 10px 0 10px 5px;
+}
+
+.settings-menu-link a:hover {
+    border-left: 2px solid #e3d3a3;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-page-right {
+    margin-left: auto;
+}
+
+.flex-c {
+    flex-direction: column;
+}
+
+.flex-w {
+    flex-wrap: wrap;
+}
+
+.dashlet {
+    width: 31.5%;
+    display: flex;
+    margin: 0 20px 20px 0;
+    padding: 5px;
+    border: 1px solid #eee;
+    box-shadow: 0 0 3px 0 #eee;
+}
+
+img.dashlet-flag {
+    width: 40px;
+    height: auto;
+    margin: 5px;
+}
+
+.fund-info {
+    display: flex;
+    flex: 1;
+}
+
+.wallet-info {
+    width: 200px;
+    border: 1px solid #eee;
+    margin-right: 20px;
+    box-shadow: 0 0 3px #eee;
+    padding: 10px;
+}
+
+.balance-info {
+    padding: 5px;
+}
+
+.withdraw-amount-info {
+    padding: 15px;
+    border: 1px solid #f2f2f2;
+    box-shadow: 0 0 3px #ddd;
+    margin-right: 30px;
+}
+
+.limit-box {
+    padding: 20px;
+    border: 1px solid #eee;
+    box-shadow: 0 0 5px #eee;
+    margin-right: 20px;
+}
+
+.stats-box {
+    padding: 10px 50px;
+    border: 1px solid #eee;
+    margin-right: 20px;
+    box-shadow: 0 0 5px #eee;
+}
+
+.flex-c {
+    flex-direction: column;
+}
+
+.exchange-form-container {
+    background-color: #f6f6f6;
+    padding: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 5px #e3e3e3;
+}
+
+.flex-coins {
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.flex-coins .card {
+    width: 48%;
+}
+
+.flex-gift-card-wrapper {
+    flex-wrap: wrap;
+    justify-content: baseline;
+}
+
+.flex-gift-card-wrapper .card {
+    margin: 20px 5px;
+}
+
+.btn-homecta {
+    padding: 10px 40px;
+    font-size: 21px;
+    background-color: #ff3000;
+    border: 1px solid #ff3000;
+    color: #fff;
+}
+
+.btn-homecta:visited,
+.btn-homecta:hover {
+    color: #fff;
+    background-color: #ff3000;
+    border: 1px solid #ff3000;
+}
+
+.btn-block {
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+    max-width: 380px;
+}

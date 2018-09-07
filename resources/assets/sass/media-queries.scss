@@ -1,0 +1,303 @@
+#ticker-blue {
+    background-color: #0f4f8f;
+}
+.top-navigation {
+    box-shadow: 0 0 8px #f2f2f2;
+    background-color: #fff;
+}
+.navbar-logo-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-grid-item {
+    padding: 5px;
+}
+a.navbar-brand {
+    width: 200px;
+}
+.navbar {
+    padding: 0;
+}
+
+.navbar-toggler-custom {
+    align-self: flex-start;
+    background-color: #ddd;
+    width: 50px;
+    height: 40px;
+    color: #aaa;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 30px;
+}
+.widget-wrapper {
+    flex-direction: column;
+}
+.footer-widget-1, .footer-widget-2, .footer-widget-3 {
+    width: 100%;
+}
+.cta-bar {
+    min-height: 160px;
+}
+.cta-bar-title-1 {
+    font-size: 24px;
+}
+.carousel-caption h3 {
+    padding: 40px;
+    font-size: 30px;
+}
+.carousel-caption {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.carousel-fade {
+    height: 300px;
+}
+.navbar-menu-section {
+    margin-left: 0;
+}
+li.nav-item {
+    padding: 2px;
+    background-color: transparent;
+    margin: 2px;
+    border-bottom: 1px solid #dfdfdf;
+    border-radius: 4px;
+}
+.flex-member-menu {
+    flex-direction: column;
+}
+.flex-1 {
+    flex:1;
+}
+.main-section {
+    margin: 20px 0;
+}
+.box-white {
+    background-color: #fff;
+}
+.nospace {
+    padding: 0;
+    margin:0;
+}
+.trade-details-section {
+    border-top: 1px solid #eee;
+    border-bottom: 10px solid #eee;
+}
+.heading-market-watch {
+    font-size: 20px;
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+}
+/*==========  Mobile First Method  ==========*/
+
+
+/* Custom, iPhone Retina */
+
+@media only screen and (min-width: 320px) {
+
+    .banner-wrapper {
+        height: auto;
+    }
+    .banner-content {
+        width: 100%;
+        padding: 20px 0;
+        text-align: center;
+    }
+    .banner-closeline {
+        padding-right: 0;
+    }
+    .widget-wrapper {
+        flex-direction: column;
+    }
+
+    .btn-block {
+        display: block;
+        width: 50%;
+        margin: 20px auto;
+        max-width: 380px;
+    }
+    .login-form-container,
+    .register-form-container {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .dashlet {
+        width: 100%;
+    }
+    .copy-right-text-container {
+        padding: 20px;
+    }
+    .buysell-container {
+        flex-direction: column;
+    }
+    .buysell-container .card {
+        width: 100%;
+        margin-bottom: 20px;
+        margin-right: 20px;
+    }
+    .flex-coins .card {
+        width: 100%;
+        max-width: 300px;
+    }
+    .card-img-top {
+        height: 130px;
+    }
+    .flex-gift-card-wrapper .card {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .exchange-form-container {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (min-width: 480px) {}
+
+
+/* Small Devices, Tablets */
+
+@media only screen and (min-width: 768px) {
+    .cta-bar {
+        min-height: 320px;
+    }
+    .cta-bar-title-1 {
+        font-size: 48px;
+    }
+    .carousel-caption h3 {
+        padding: 40px;
+        font-size: 30px;
+    }
+    .carousel-caption {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .carousel-fade {
+        height: 500px;
+    }
+    .login-form-container,
+    .register-form-container {
+        width: 50%;
+        margin: 0 auto;
+    }
+    .flex-coins .card {
+        width: 100%;
+        max-width: 680px;
+        margin: auto;
+    }
+    .card-img-top {
+        height: 230px;
+    }
+    .flex-gift-card-wrapper .card {
+        width: 336px;
+        margin: 20px auto;
+    }
+    .btn-block {
+        display: block;
+        width: 70%;
+        margin: 20px auto;
+        max-width: 380px;
+    }
+}
+
+
+/* Medium Devices, Desktops */
+
+@media only screen and (min-width: 992px) {
+
+    .navbar-menu-section {
+        margin-left: auto;
+    }
+    .banner-wrapper {
+        height: 600px;
+    }
+    .banner-content {
+        width: 60%;
+        padding: 20px 0;
+        text-align: left;
+    }
+    .banner-closeline {
+        padding-right: 100px;
+    }
+    .widget-wrapper {
+        flex-direction: row;
+    }
+    .flex-content {
+        display: flex;
+    }
+    .footer-widget-1,
+    .footer-widget-2 {
+        width: 20%;
+        padding: 0;
+    }
+    .cta-bar-title-1 {
+        color: #282828;
+        font-size: 40px;
+        font-weight: 600;
+        width: 66%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .dashlet {
+        width: 31%;
+    }
+    .buysell-container {
+        flex-direction: row;
+    }
+    .buysell-container .card {
+        width: 50%;
+        margin-bottom: 20px;
+        margin-right: 20px;
+    }
+    .flex-coins .card {
+        width: 100%;
+        max-width: 480px;
+        margin: 0;
+    }
+    .card-img-top {
+        height: 220px;
+    }
+    .flex-gift-card-wrapper .card {
+        width: 280px;
+        margin: 20px auto;
+    }
+    li.nav-item {
+        padding: 0;
+        margin: 0;
+        border-bottom: 0;
+        border-radius: 0;
+    }
+    .flex-member-menu {
+        flex-direction: row;
+        min-width: 280px;
+        align-items: center;
+    }
+      .box-aside {
+        width: 280px;
+        margin-left: 20px;
+    }
+   
+}
+
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (min-width: 1200px) {
+
+}
+@media screen and (min-width: 1400px) and (max-width: 1920px) {
+  .container {
+        width: 1400px;
+    }
+    .box-aside {
+        width: 400px;
+        margin-left: 20px;
+    }
+}

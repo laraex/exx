@@ -1,0 +1,38 @@
+.banner-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    /* align-items: center; */
+    height: 600px;
+}
+
+.banner-content {
+    width: 60%;
+}
+
+.banner-headline {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.4em;
+    margin: 60px 0;
+    text-transform: uppercase;
+}
+
+.banner-headline span {
+    text-decoration: underline;
+}
+
+.banner-sideline {
+    font-size: 24px;
+    padding: 20px 0;
+    font-weight: 300;
+}
+
+.banner-closeline {
+    padding: 20px 0;
+    padding-right: 100px;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 30px;
+    color: #999;
+}

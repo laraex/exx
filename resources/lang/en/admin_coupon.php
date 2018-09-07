@@ -1,0 +1,26 @@
+<?php
+
+	return [
+		"recent_buy" => "Recent Buy",
+		"list" => "Lists",
+		"coupon_code" => "Coupon Code",
+		"amt" => "Amount",
+		"transaction_id" => "Transaction ID",
+		"status" => "Status",
+		"date" => "Date",
+		"no_coupon_code" => "Number Of Coupon Code",
+		"cancel" => "Cancel",
+		"apply_to" => " Applicable to",
+		"count" => "Count",
+		"limit" => "Limit",
+		"valid_from" => "Valid From",
+		"valid_to" => "Valid To",
+		"couponcode_success" => "CouponCode created Successfully",
+		"coupon_name" => "Coupon Name",
+		"coupon_type" => "Coupon Type",
+		"applies_to" => "Applies to",
+		"per_user" => "No.of uses per USER",
+		"expire_date" => "Coupon Expiry Date",
+		"currency" => "Currency",
+		"usergrp_name" => "Usergroup Name",
+	];

@@ -1,0 +1,77 @@
+.message-bubble-text-right {
+    margin-left: 40%;
+    width: 60%;
+    display: block;
+    text-align: right;
+    border: 1px solid #98ccbb;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #d1f1e1;
+}
+
+.message-bubble-text-left {
+    margin-right: 40%;
+    width: 60%;
+    display: block;
+    border: 1px solid #c8cc98;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #f1f0d1;
+}
+
+.message-box {
+    border: 1px solid #eee;
+    padding: 20px;
+    height: 80vh;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+.transactionnumber {
+    text-transform: uppercase;
+    }
+.custom-dropdown
+{
+    
+    left:auto !important;
+}
+.custom_tabs li
+{
+    
+    padding:10px !important;
+}
+.custom-dropdown
+{
+    
+    left:auto !important;
+}
+.custom_tabs li
+{
+    
+    padding:10px !important;
+
+}
+.userbox-width
+{
+    width: 105px !important;
+
+
+}
+
+a.nav-link {
+    font-size: 16px;
+    color: #818797;
+    text-transform: none;
+    font-weight: 400;
+}
+.nav-link a:hover {
+    color: #fff;
+    text-transform: none;
+    font-weight: 600;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}

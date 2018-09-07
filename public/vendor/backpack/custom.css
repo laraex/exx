@@ -1,0 +1,137 @@
+.wallet-box {
+    display: flex;
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin: 20px 10px;
+    flex-wrap: wrap;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.wallet-balance-box {
+    border: 1px solid #eee;
+    padding: 0 30px;
+}
+.flag-image {
+	width: 80px;
+	height: auto;
+}
+.widget-groups {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.widget {
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 10px;
+    flex-direction: column;
+    width: 32%;
+}
+.widget-header {
+    padding: 10px;
+    background-color: #ddd;
+}
+.widget-footer {
+    padding: 10px;
+    background-color: #d6d6d6;
+}
+.widget-body {
+    flex: 1;
+    background-color: #fefefe;
+}
+.widget-heading {
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+}
+.widget-move {
+    color: #c2c2c2;
+}
+.widget-inner {
+    padding: 20px 40px;
+}
+.flex-center {
+    flex: 1;
+    padding: 0 20px;
+}
+.widget-data {
+    list-style: none;
+    padding: 0;
+    padding-bottom: 0px;
+    margin: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dotted #ddd;
+    padding-bottom: 5px;
+}
+.widget-data-amount {
+    font-size: 18px;
+}
+.flex-right {
+    text-align: right;
+}
+.message-bubble-text-right {
+    margin-left: 40%;
+    width: 60%;
+    display: block;
+    text-align: right;
+    border: 1px solid #98ccbb;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #d1f1e1;
+}
+.message-bubble-text-left {
+    margin-right: 40%;
+    width: 60%;
+    display: block;
+    border: 1px solid #c8cc98;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #f1f0d1;
+}
+.conversation-box {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #eee;
+    display: block;
+    flex: 1;
+}
+.participant-box {
+    min-width: 330px;
+    width: 33%;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #eee;
+    display: block;
+}
+.conversation-detail-box {
+    display: flex;
+}
+.badge-group {
+    display: flex;
+}
+.profile-section {
+    display: flex;
+}
+.profile-image-section {
+    margin: 0 10px;
+}
+.profile-full-name {
+    padding: 0;
+    margin:0;
+}
+.conversation-flex {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    /* overflow: auto; */
+}
+.converstaion-area {
+    flex:1;
+    overflow-y: scroll;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
