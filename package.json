@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "amcharts3": "^3.21.13",
-    "bootstrap-vue": "^2.0.0-rc.2",
+    "bootstrap-vue": "^2.0.0-rc.12",
     "chart.js": "^2.7.2",
     "net": "^1.0.2",
     "node-sass": "^4.9.2",
