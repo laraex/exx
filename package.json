@@ -15,7 +15,7 @@
     "gulp-install": "^1.1.0",
     "jquery": "^3.4.0",
     "laravel-mix": "^0.8.3",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "tether": "^1.4.0",
     "vue": "^2.4.4"
   },
