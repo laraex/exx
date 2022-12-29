@@ -11,10 +11,10 @@
     "axios": "^0.18.1",
     "bootstrap": "4.0.0-alpha.6",
     "cross-env": "^3.2.3",
-    "css-loader": "^0.28.5",
+    "css-loader": "^6.7.3",
     "gulp-install": "^1.1.0",
     "jquery": "^3.4.0",
-    "laravel-mix": "^0.8.3",
+    "laravel-mix": "^6.0.49",
     "lodash": "^4.17.13",
     "tether": "^1.4.0",
     "vue": "^2.4.4"
